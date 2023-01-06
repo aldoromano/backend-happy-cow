@@ -7,6 +7,6 @@ Back assez simple avec 3 fichiers routes :
 * Gestion des profils utilisateurs
 
 Les favoris et les profils utilisateurs sont enregistrés dans MongoDB.
-Les données restaurant sont stockées dans un fichier JSON.
+Les données restaurant sont fournies par un fichier JSON stocké dans le répertoire assets.
 
 
